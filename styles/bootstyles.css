@@ -1,0 +1,67 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+.mainbody {
+  top: 114px;
+  bottom: 64px;
+  right: 5px;
+  width: 100px;
+}
+
+.mbtableau {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.footer {
+  bottom: 5px;
+  height: 50px;
+  left: 5px;
+  right: 5px;
+  text-align: center;
+}
+
+.padding {
+  padding-top: 50px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+  text-align: center;
+  border-style: hidden;
+}
+
+.solidborder {
+  border-style: solid;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  height: 25px;
+}
+
+.calilink {
+  font-size: large;
+  color: black;
+}
